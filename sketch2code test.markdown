@@ -73,3 +73,34 @@
 
 ![](http://a1.qpic.cn/psb?/31c73372-bbf1-44a2-a0ef-d40393026b98/ZlYmdsQI9x6r2w8dMAR33FycpPfRNCt4Bh0ui2HjyRM!/m/dAgBAAAAAAAAnull&bo=VgUAAwAAAAADB3I!&rf=photolist&t=5)
 
+5.测试用例：
+
+![](http://m.qpic.cn/psb?/31c73372-bbf1-44a2-a0ef-d40393026b98/iSQCZYKL.vfsKgk8*rVbr2IGgyvClGuQnde*7ppUnBI!/b/dDYBAAAAAAAA&bo=OASgBQAAAAARB6k!&rf=viewer_4)
+
+测试结果：
+
+![](http://m.qpic.cn/psb?/31c73372-bbf1-44a2-a0ef-d40393026b98/txxNJfifkiX3r1qRlh3EyZmYge9S9T6DwSkFI39StuQ!/b/dDUBAAAAAAAA&bo=OASgBQAAAAARB6k!&rf=viewer_4)
+
+
+6.测试用例：
+
+![](http://m.qpic.cn/psb?/31c73372-bbf1-44a2-a0ef-d40393026b98/whZzGI7obGoObHsJk6DoOzfs.N5u8js3wclGYE2ZI2Q!/b/dDEBAAAAAAAA&bo=OASgBQAAAAARB6k!&rf=viewer_4)
+
+
+测试结果：
+
+![](http://m.qpic.cn/psb?/31c73372-bbf1-44a2-a0ef-d40393026b98/VN2o8dlFoIk2IUCy6nny1YtDi5Uq790wq13cSOXtwBU!/b/dDYBAAAAAAAA&bo=VgUAAwAAAAADB3I!&rf=viewer_4)
+
+
+7.测试用例：
+
+![](http://m.qpic.cn/psb?/31c73372-bbf1-44a2-a0ef-d40393026b98/whZzGI7obGoObHsJk6DoOzfs.N5u8js3wclGYE2ZI2Q!/b/dDEBAAAAAAAA&bo=OASgBQAAAAARB6k!&rf=viewer_4)
+
+
+测试结果：
+
+![](http://m.qpic.cn/psb?/31c73372-bbf1-44a2-a0ef-d40393026b98/tJanfWdJD4.ZaTlSqlLC6iPFYX7wbxgNCkzSOock1Vg!/b/dFQBAAAAAAAA&bo=VgUAAwAAAAADB3I!&rf=viewer_4)
+
+## 结果分析 ##
+
+可能由于此网页对单个构件实现起来比较困难，可能是由于网页实现的基本要求向复杂化开始出发考虑的，单元测试并不理想。
