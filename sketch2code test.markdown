@@ -104,3 +104,24 @@
 ## 结果分析 ##
 
 可能由于此网页对单个构件实现起来比较困难，可能是由于网页实现的基本要求向复杂化开始出发考虑的，单元测试并不理想。
+
+## 集成测试 ##
+
+集成测试，也叫组装测试或联合测试。在单元测试的基础上，将所有模块按照设计要求（如根据结构图）组装成为子系统或系统，进行集成测试。 实践表明，一些模块虽然能够单独地工作，但并不能保证连接起来也能正常的工作。一些局部反映不出来的问题，在全局上很可能暴露出来。集成测试是单元测试的逻辑扩展。在现实方案中，集成是指多个单元的聚合，许多单元组合成模块，而这些模块又聚合成程序的更大部分，如分系统或系统。集成测试采用的方法是测试软件单元的组合能否正常工作，以及与其他组的模块能否集成起来工作。最后，还要测试构成系统的所有模块组合能否正常工作。
+
+1.测试用例：
+
+![](http://m.qpic.cn/psb?/31c73372-bbf1-44a2-a0ef-d40393026b98/uYec8aAQQqIalcNMFRm5.pciBTE2pz69jJKZvznlWPg!/b/dFMBAAAAAAAA&bo=OASgBQAAAAARB6k!&rf=viewer_4)
+
+测试结果：
+
+![](http://m.qpic.cn/psb?/31c73372-bbf1-44a2-a0ef-d40393026b98/pj*5F*cmLyjv55EASmvI*2TOZivGYYV06V722o.xd*0!/b/dDYBAAAAAAAA&bo=VgUAAwAAAAADN0I!&rf=viewer_4)
+
+2.测试用例：
+
+![](http://m.qpic.cn/psb?/31c73372-bbf1-44a2-a0ef-d40393026b98/jdKXZk1GjPA5LnELaNcUzL9L62YnEYPpVZPZtRR5WHg!/b/dDUBAAAAAAAA&bo=oAU4BAAAAAARF7k!&rf=viewer_4)
+
+测试结果：
+
+![](http://m.qpic.cn/psb?/31c73372-bbf1-44a2-a0ef-d40393026b98/vSBQn3mhR6LDGyT5tldwDsZnj.0yx6a*XMhdsnPL9xs!/b/dGcBAAAAAAAA&bo=VgUAAwAAAAADN0I!&rf=viewer_4)
+
